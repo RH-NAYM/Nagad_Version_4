@@ -117,21 +117,26 @@ nagad_items = [
                 'nagad_sticker_table_3',
                 'nagad_table_top_qr_pvc',
                 'nagad_table_top_qr_wooden_base_new',
-                'nagad_table_top_qr_wooden_base_old'
+                'nagad_table_top_qr_wooden_base_old',
+                'nagad_shop_banner_cash_out', # new v5
+                'nagad_festoon_send_money_free', # new v5
+                'nagad_poster_pdb', # new v5
+                'nagad_sticker_shutter_panel', # new v5
+                'nagad_poster_all_service', # new v5
             ]
 
 ndel_items = [
-                'nagad_x_banner',
                 'nagad_poster_1000_cashback',
                 'nagad_poster_ananto_bmw',
                 'nagad_table_talker',
                 'nagad_sticker_payment_bangla',
-                'bkash_table_top_qr_smart',
                 'nagad_shop_banner_nagad_sheba',
                 'nagad_festoon_nagad_sheba',
                 'nagad_poster_mobile_recharge',
                 'nagad_back_lit_2',
-                'nagad_board_back_lit_1_with_picture'
+                'nagad_board_back_lit_1_with_picture',
+                'nagad_x_banner',
+                'bkash_table_top_qr_smart'
             ]
 
 
@@ -139,12 +144,12 @@ ndel_items = [
 bkash_items = [   
                 'bkash_festoon_bill_pay', 
                 'bkash_festoon_digital', 
-                'bkash_festoon_price', 
+                'bkash_festoon_price', # updated v4 added yellow also
                 'bkash_festoon_qr', 
                 'bkash_festoon_remittance', 
                 'bkash_festoon_savings', 
-                'bkash_hanger_push_pull_door', 
-                'bkash_hanging_board_open_close', 
+                'bkash_hanger_push-pull_door', 
+                'bkash_hanging_board_open-close',
                 'bkash_pos_pointer_back_led', 
                 'bkash_poster_islamic', 
                 'bkash_poster_mobile_recharge', 
@@ -153,7 +158,7 @@ bkash_items = [
                 'bkash_poster_send_money', 
                 'bkash_poster_table_messi', 
                 'bkash_poster_western_union', 
-                'bkash_shop_banner_price', 
+                'bkash_shop_banner_price', # updated v4 added yellow also
                 'bkash_sticker_bill_pay_table', 
                 'bkash_sticker_fraud_awareness', 
                 'bkash_sticker_mask_bangla', 
@@ -162,7 +167,7 @@ bkash_items = [
                 'bkash_sticker_payment_large', 
                 'bkash_sticker_payment_running', 
                 'bkash_sticker_price', 
-                'bkash_sticker_push_pull_door', 
+                'bkash_sticker_push-pull_door',
                 'bkash_sticker_qr_code', 
                 'bkash_sticker_qr_vertical_1', 
                 'bkash_sticker_running', 
@@ -171,7 +176,7 @@ bkash_items = [
                 'bkash_sticker_transaction', 
                 'bkash_table_top_qr_pvc_dai_cut', 
                 'bkash_table_top_qr_pvc_running',
-                'bkash_festoon_savings_new'
+                'bkash_festoon_savings_new' # new v4
             ]
 
 
@@ -192,7 +197,14 @@ rocket_items = [
                     'rocket_sticker_shutter', 
                     'rocket_sticker_table', 
                     'rocket_sticker_table_price', 
-                    'rocket_table_top_qr_1_pvc'
+                    'rocket_table_top_qr_1_pvc',
+                    'rocket_poster_isnsurance',
+                    'rocket_fastoon_wasa_bill', # new v5
+                    'rocket_fastoon_bill_pay_new', # new v5
+                    'rocket_fastoon_pdb_bill', # new v5
+                    'rocket_fastoon_lenden_new', # new v5
+                    'rocket_fastoon_polli_biddut', # new v5
+                    'rocket_fastoon_remittance' # new v5
                 ]
 
 
@@ -211,7 +223,14 @@ upay_items = [
                 'upay_shop_banner', 
                 'upay_sticker_qr_code_1', 
                 'upay_sticker_qr_code_2', 
-                'upay_sticker_shutter'
+                'upay_sticker_shutter',
+                'upay_table_top_qr_pvc',
+                'upay_fastoon_dpdc', # new v5
+                'upay_fastoon_price_new', # new v5
+                'upay_fastoon_water_bill' # new v5
             ]
+
+
+
 
 
